@@ -4,7 +4,7 @@
 
 A collection of `exploits`, tools, and scripts designed for penetration testing, security research, and vulnerability assessment. Built to help security professionals and ethical hackers identify, analyze, and test security weaknesses in controlled environments.
 
-# Network
+# 🛜 Network
 
 - [DNS Spoofer (dnspoofer.py)](https://github.com/wvverez/wvverez-toolkit/blob/main/DNS-Spoofing/dnspoofer.py)
 
