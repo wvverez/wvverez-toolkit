@@ -8,3 +8,4 @@ A collection of `exploits`, tools, and scripts designed for penetration testing,
 
 - [DNS Spoofer (dnspoofer.py)](https://github.com/wvverez/wvverez-toolkit/blob/main/DNS-Spoofing/dnspoofer.py)
 
+- [ARP Spoofer (spoof.py)](https://github.com/wvverez/wvverez-toolkit/blob/main/ARP-Spoofing/spoof.py)
