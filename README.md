@@ -1,1 +1,1 @@
-<img width="2172" height="724" alt="Logotipo rojo wvverez toolkit" src="https://github.com/user-attachments/assets/3118d7f1-c770-453c-a752-16cf0ec3449d" />
+<img width="2164" height="727" alt="Logotipo rojo wvverez toolkit (1)" src="https://github.com/user-attachments/assets/64f0e841-e4a7-4c77-bf47-c2caea4d0af3" />
